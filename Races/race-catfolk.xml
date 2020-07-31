@@ -5,7 +5,7 @@
 		<description></description>
 		<author> Psily </author>
 		<update version="0.0.8">
-			<file name="race-catfolk.xml"/>
+			<file name="race-catfolk.xml" url="https://raw.githubusercontent.com/PaydiLuv/Aurora-DnD-Homebrew/master/Races/race-catfolk.xml"/>
 		</update>
 	</info>
 	<element name="Catfolk" type="Race" source="Psily's book to complete the rest" id="ID_ILY_RACE_CATFOLK">
