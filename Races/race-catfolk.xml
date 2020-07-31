@@ -53,7 +53,6 @@
 		<rules>
 			<stat name="dexterity" value="1"/>
 			<stat name="innate speed" value="30" bonus="base"/>
-			<stat name="ac:misc" value="10" />
 			<grant type="Vision" id="ID_VISION_DARKVISION" />
 			<grant type="Size" id="ID_SIZE_MEDIUM" />
 			<grant type="Language" id="ID_LANGUAGE_COMMON" />
