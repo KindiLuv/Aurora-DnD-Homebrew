@@ -6,6 +6,7 @@
     </update>
   </info>
   <files>
+    <file name="psily-source.xml" url=""/>
     <file name="race-catfolk.xml" url="https://raw.githubusercontent.com/PaydiLuv/Aurora-DnD-Homebrew/master/Races/race-catfolk.xml" />
   </files>
 </index>

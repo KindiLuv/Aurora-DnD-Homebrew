@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+	<info>
+		<update version="0.0.1">
+			<file name="sources.xml" url="" />
+		</update>
+	</info>
+	<element name="Monster Manual" type="Source" source="Core" id="ID_ILY_BOOK">
+		<description>
+            <![CDATA[<p>Paydiluv's addons and homebrew for DnD 5th edition]]>
+		</description>
+		<setters>
+			<set name="abbreviation">ILY</set>
+			<set name="url">https://github.com/PaydiLuv/Aurora-DnD-Homebrew</set>
+			<set name="image">https://cdn.pastemagazine.com/www/articles/yawning%20portal%20main.jpg</set>
+			<set name="author" abbreviation="ILY" url="https://github.com/PaydiLuv">PaydiLuv</set>
+			<set name="release">2020</set>
+		</setters>
+	</element>
+</elements>
