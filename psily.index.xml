@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+  <info>
+    <update version="1.0">
+      <file name="psily.index" url="https://raw.githubusercontent.com/PaydiLuv/Aurora-DnD-Homebrew/master/psily.index.xml?token=APGV76G4RFMPTLFRSKYSRPC7EPVWK" />
+    </update>
+  </info>
+  <files>
+    <file name="race-catfolk.xml" url="https://raw.githubusercontent.com/PaydiLuv/Aurora-DnD-Homebrew/master/Races/race-catfolk.xml?token=APGV76FEEGCIAA52PJOZUN27EPVYQ" />
+  </files>
+</index>
