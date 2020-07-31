@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+	<info>
+		<name>Catfolk</name>
+		<description></description>
+		<author> Psily </author>
+		<update version="0.0.8">
+			<file name="race-catfolk.xml"/>
+		</update>
+	</info>
+	<element name="Catfolk" type="Race" source="Psily's book to complete the rest" id="ID_ILY_RACE_CATFOLK">
+		<description>
+			<p class="flavor">Catfolk descended from felines thousands of years ago, only just older than humans. Catfolk are Tribal people, whose passion and love run deep. They form tribes around the world, often in harsh climates, ranging from deep in the rain forests, to scorching savannahs, all the way to freezing arctic regions, but are far more common around forest edges. Like Elves, Catfolk are attuned to nature, respect it, and defend it against those who would do it harm. </p>
+			<p class="indent">With no large settlements and a tribe style government structure, they have little to do with the outside world and their schemes. They pass their history as an oral history.</p>
+			<h4>SOCIETY</h4>
+			<p>Catfolk are a nomadic race, often traveling from tribe to tribe to experience different cultures. Catfolk get along with most other races, and is quite common to find Catfolk integrated into other societies, especially human, elves, and halflings. It is less common to find them with Orcs and Dwarves, but it not unheard of due to the variety of Catfolk personalities.</p>
+			<p class="indent">They have a tribe hierarchy. Chief>Scouts>Druids> Rest of Tribe. They are a deeply spiritual people usually a god of nature. Catfolk as a race get along with just about every other race. Their sense of curiosity is what compels them to seek adventure. Some that experience that wanderlust find the sound of battle to be exciting and draws them deeper into the life of adventuring.</p>
+			<h4>CHILDREN OF CURIOSITY</h4>
+			<p>Catfolk were created by Xalyn, a goddess of knowledge who takes the form of a cat. She delights in mortals’ pursuit of knowledge, and desired to be the mother of her own race of truth-seekers. When other gods suggested that she simply give a blessing to a scholarly race like the elves, Xalyn replied “But I didn’t make them!” </p>
+			<p class="indent">And so, a clowder of cats chosen by the knowledge goddess was awakened and transformed into bipedal race of creatures with a hunger for travel and enlightenment. Through the tribe’s travels, catfolk learned about the other races, and began to disperse themselves among them in order to learn more. Catfolk became well-known for being quick learners, devoted workers, and loyal companions.</p>
+			<h4>DIVERSE HERITAGE</h4>
+			<p>It is said that the first tribe of catfolk bore the most resemblance to their parent species. Thick coats of fur covered their bodies, and their legs were reminiscent of haunches. Through intermingling with other races, these traits have been widely dispersed over thousands of years.</p>
+			<p class="indent">Some catfolk retain most of their original features, with a layer of fur covering most of their bodies and faces that remain largely feline. Other catfolk have developed more humanoid appearances. These specimens tend to have straight, silky hair, slim frames, and slanted eyes, while bearing the ears and tail that mark them as catfolk.</p>
+			<h4>CARAVANS AND CAMPS</h4>
+			<p>Though catfolk love to interact with other races and can be perfectly happy living in smaller groups, many catfolk organize themselves into roaming bands that travel the lands in search of new experiences. This lifestyle makes them good company for merchants and adventurers, especially since the catfolk welcome others into their numbers.</p>
+			<p class="indent">Some catfolk clans find that enlightment will come to them, if the right spot is chosen. These clans make camp where travelers of all kinds are likely to pass by, and end up forming stable settlements. While most of these settlements tend to be no larger than a small village, a few bustling cities are known to have grown from humble catfolk camps.</p>
+			<h4>CAREFREE AND KIND</h4>
+			<p>Catfolk are very accepting of other people. They take every opportunity to try and understand the world around them, even if that sometimes ends up getting them hurt. Because the Feline language lends itself well to music, many tribes teach their young about the race’s history through song and dance. This informative entertainment tends to pique the interest of outsiders, leading to the inspiration of many a catfolk bard.</p>
+			<p class="indent">When spending time in the company of other races, catfolk make themselves useful as minstrels, scholars, and healers. Some catfolk hone their natural grace to become circus performers, and others practice precision in order to make a living as a locksmith. Stronger specimens prefer to work as guards, but some have been known to be very successful farmers. No matter the task, for better or worse, catfolk approach life with confidence, believing that even failure is an opportunity to learn and improve.</p>
+			<h4>APPEARANCE</h4>
+			<p>The appearance of Catfolk vary even greater than humans, with their size ranging from just three feet, all the way up to eight. They are almost always covered in a coat of fur, from short to long, thin to thick, though hairless variations are not unheard of. They have the bone structure of a cats, but are bipedal, though small catfolk are comfortable switching back and forth to quadrupedal. They have retractable claws in their hands and feet, and are feline in appearance. Their markings are also innumerable, with the most common being wild cats, such as lions, tigers, cheetahs, leopards, and lynxes. Another common variety are typical housecat patterns, such as the simple tabby, ranging from any color to any pattern typical of a standard Tabby house cat. Their sizes generally correspond to their ancestry, with Lions and Tigers generally being quite large, and Tabbies and Lynxes being quite a bit smaller, though the reverse, with large tabbies and small lions and are not uncommon.</p>
+			<h4>CATFOLK TRAITS</h4>
+			<p>A race of Cat people, with as many variations as there are colors.</p>
+			<p class="indent"><strong><em>Ability Score Increase.</em></strong> Your Dexterity score increases by 1.</p>
+			<p class="indent"><strong><em>Age.</em></strong> Catfolk reach adulthood in their teens, and can live up to three centuries.</p>
+			<p class="indent"><strong><em>Alignment.</em></strong> Catfolk tend toward chaotic alignments.</p>
+			<p class="indent"><strong><em>Size.</em></strong>Catfolk normally stand at around five and a half feet tall and weigh around 120 pounds. Large-Breed Catfolk are more physically imposing, at about six and a half feet tall and about 200 pounds. Your size is Medium.</p>
+			<p class="indent"><strong><em>Speed.</em></strong> Your base walking speed is 30 feet.</p>
+			<p class="indent"><strong><em>Low-Light Vision.</em></strong> As a nocturnal race, you have superior vision in dim conditions. You can see in dim light within 60 feet of you as if it were bright light.</p>
+			<p class="indent"><strong><em>Cat's Claws.</em></strong> Because of your claws, you have a climbing speed of 20 ft. Additionally, your claws are natural weapons, which you can use to make unarmed strikes. The damage die for your unarmed strike is a d4, and it deals slashing damage instead of bludgeoning damage.</p>
+			<p class="indent"><strong><em>Catlike Reflexes.</em></strong> You may add half your proficiency bonus, rounded down, to your initiative rolls.</p>
+			<p class="indent"><strong><em>Feline Empathy.</em></strong> You can communicate simple ideas with feline creatures, such as cats, lions, and tigers.</p>
+			<p class="indent"><strong><em>Languages.</em></strong> You can speak, read, and write Common.</p>
+			<p class="indent"><strong><em>Subrace.</em></strong>  You are a member of one of a few distinct breeds of catfolk: ordinary-breed, large-breed, or mystic-breed. Choose one of these subraces.</p>
+		</description>
+		<sheet display="false"/>
+		<setters>
+			<set name="names" type="male">Cloud on the Mountaintop, Five Timber, Jade Shoe, Left-Handed Hummingbird, Seven Thundercloud, Skirt of Snakes, Smoking Mirror</set>
+			<set name="names-format">{{name}}</set>
+			<set name="height" modifier="2d10">4’5"</set>
+			<set name="weight" modifier="2d4">100 lb.</set>
+		</setters>
+		<rules>
+			<stat name="dexterity" value="1"/>
+			<stat name="innate speed" value="30" bonus="base"/>
+			<stat name="ac:misc" value="10" />
+			<grant type="Vision" id="ID_VISION_DARKVISION" />
+			<grant type="Size" id="ID_SIZE_MEDIUM" />
+			<grant type="Language" id="ID_LANGUAGE_COMMON" />
+			<grant type="Racial Trait" id="ID_ILY_RACIAL_TRAIT_LOW_LIGHT_VISION" />
+			<grant type="Racial Trait" id="ID_WOTC_VGTM_RACIAL_TRAIT_TAXBAXI_CATS_CLAWS" />
+			<grant type="Racial Trait" id="ID_ILY_RACIAL_TRAIT_CATLIKE_REFLEXES" />
+			<grant type="Racial Trait" id="ID_ILY_RACIAL_TRAIT_FELINE_EMPATHY" />
+			<grant type="Racial Trait" id="ID_ILY_RACIAL_TRAIT_CATFOLK_SUBRACE" />
+		</rules>
+	</element>
+	<element name="Low-light Vision" type="Racial Trait" source="Psily's book to complete the rest" id="ID_ILY_RACIAL_TRAIT_LOW_LIGHT_VISION">
+		<description>
+			<p>As a nocturnal race, you have superior vision in dim conditions. Youcan see in dim light within 60 feet of you as if it were bright light.</p>
+		</description>
+		<sheet>
+			<description>As a nocturnal race, you have superior vision in dim conditions. Youcan see in dim light within 60 feet of you as if it were bright light.</description>
+		</sheet>
+	</element>
+	<element name="Cat’s Claws" type="Racial Trait" source="Volo’s Guide to Monsters" id="ID_WOTC_VGTM_RACIAL_TRAIT_TAXBAXI_CATS_CLAWS">
+		<description>
+			<p>Because of your claws, you have a climbing speed of 20 feet. In addition, your claws are natural weapons, which you can use to make unarmed strikes. If you hit with them, you deal slashing damage equal to 1d4 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.</p>
+		</description>
+		<sheet>
+			<description>Because of your claws, you have a climbing speed of 20 feet. In addition, your claws are natural weapons, which you can use to make unarmed strikes. If you hit with them, you deal slashing damage equal to 1d4+{{strength:modifier}}, instead of the bludgeoning damage normal for an unarmed strike.</description>
+		</sheet>
+		<rules>
+			<stat name="innate speed:climb" value="20" bonus="base" />
+		</rules>
+	</element>
+	<element name="Catlike Reflexes" type="Racial Trait" source="Psily's book to complete the rest" id="ID_ILY_RACIAL_TRAIT_CATLIKE_REFLEXES">
+		<description>
+			<p>You may add half your proficiency bonus, rounded down, to your initiative rolls.</p>
+		</description>
+		<sheet display="false">
+			<description>You may add half your proficiency bonus, rounded down, to your initiative rolls.</description>
+		</sheet>
+		<rules>
+			<stat name="initiative:misc" value="proficiency:half" />
+		</rules>
+	</element> 
+	<element name="Feline Empathy" type="Racial Trait" source="Psily's book to complete the rest" id="ID_ILY_RACIAL_TRAIT_FELINE_EMPATHY">
+		<description>
+			<p>You can communicate simple ideas with feline creatures, such as cats, lions, and tigers.</p>
+		</description>
+		<sheet>
+			<description>You can communicate simple ideas with feline creatures, such as cats, lions, and tigers.</description>
+		</sheet>
+	</element> 
+	<element name="Subrace" type="Racial Trait" source="Psily's book to complete the rest" id="ID_ILY_RACIAL_TRAIT_CATFOLK_SUBRACE">
+		<description>
+			<p>You are a member of one of a few distinct breeds of catfolk: ordinary-breed, large-breed, or mystic-breed. Choose one of these subraces.</p>
+		</description>
+		<sheet display="false">
+			<description>You are a member of one of a few distinct breeds of catfolk: ordinary-breed, large-breed, or mystic-breed. Choose one of these subraces.</description>
+		</sheet>
+		<rules>
+			<select type="Sub Race" name="Catfolk Subrace" supports="Catfolk" />
+		</rules>
+	</element>
+
+
+	<element name="Ordinary-Breed Catfolk" type="Sub Race" source="Psily's book to complete the rest" id="ID_SUB_RACE_ORDINARY_BREED_CATFOLK">
+		<supports>Catfolk</supports>
+		<description>
+			<p>Lanky and lean catfolk that resemble ordinary cats.</p>
+			<p class="indent"><strong><em>Ability Score Increase.</em></strong> Your Charisma score increases by 2.</p>
+			<p class="indent"><strong><em>Catlike Tread.</em></strong> You are proficient in the Stealth skill.</p>
+			<p class="indent"><strong><em>Fleet of Foot.</em></strong> Your movement speed increases to 35 feet.</p>
+			<p class="indent"><strong><em>Nine Lives.</em></strong> You have resistance to damage taken from falling.</p>
+		</description>
+		<setters>
+			<set name="height" modifier="2d10">4'5"</set>
+			<set name="weight" modifier="2d4">100 lb.</set>
+		</setters>
+		<rules>
+			<stat name="charisma" value="2" />
+			<grant type="Racial Trait" id="ID_ILY_RACIAL_TRAIT_CATLIKE_TREAD"/>
+			<grant type="Racial Trait" id="ID_ILY_RACIAL_TRAIT_FLEET_OF_FOOT"/>
+			<grant type="Racial Trait" id="ID_ILY_RACIAL_TRAIT_NINE_LIVES"/>
+		</rules>
+	</element>
+
+	<element name="Fleet of Foot" type="Racial Trait" source="Psily's book to complete the rest" id="ID_ILY_RACIAL_TRAIT_FLEET_OF_FOOT">
+		<description>
+			<p>Your base walking speed increases to 35 feet.</p>
+		</description>
+		<sheet display="false">
+			<description>Your speed increases to 35 feet.</description>
+		</sheet>
+		<rules>
+			<stat name="innate speed" value="35" bonus="base" />
+		</rules>
+	</element>
+	<element name="name" type="Racial Trait" source="Psily's book to complete the rest" id="ID_ILY_RACIAL_TRAIT_NINE_LIVES">
+		<description>
+			<p>You have resistance to damage taken from falling.</p>
+		</description>
+		<sheet>
+			<description>You have resistance to damage taken from falling.</description>
+		</sheet>
+	</element>
+
+	<element name="Large-Breed Catfolk" type="Sub Race" source="Psily's book to complete the rest" id="ID_SUB_RACE_LARGE_BREED_CATFOLK">
+		<supports>Catfolk</supports>
+		<description>
+			<p>Large, strong catfolk that resemble lions, tigers, and other large cats.</p>
+			<p class="indent"><strong><em>Ability Score Increase.</em></strong> Your Strength score increases by 2.</p>
+			<p class="indent"><strong><em>Big Cat's Claws.</em></strong> The damage die for your unarmed strikes increases to a d6.</p>
+			<p class="indent"><strong><em>Catlike Tread.</em></strong> You are proficient in the Stealth skill.</p>
+			<p class="indent"><strong><em>Powerful Build.</em></strong> You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.</p>
+		</description>	
+		<setters>
+			<set name="height" modifier="2d8">5'4"</set>
+			<set name="weight" modifier="2d6">170 lb.</set>
+		</setters>
+		<rules>
+			<stat name="strength" value="2" />
+			<grant type="Racial Trait" id="ID_ILY_RACIAL_TRAIT_BIG_CATS_CLAWS"/>
+			<grant type="Racial Trait" id="ID_ILY_RACIAL_TRAIT_CATLIKE_TREAD"/>
+			<grant type="Racial Trait" id="ID_ILY_RACIAL_TRAIT_POWERFULBUILD"/>
+		</rules>
+	</element>
+
+	<element name="Big Cat's Claws" type="Racial Trait" source="Psily's book to complete the rest" id="ID_ILY_RACIAL_TRAIT_BIG_CATS_CLAWS">
+		<description>
+			<p>The damage die for your unarmed strikes increases to a d6.</p>
+		</description>
+		<sheet>
+			<description>The damage die for your unarmed strikes increases to a d6.</description>
+		</sheet>
+	</element>
+	<element name="Catlike Tread" type="Racial Trait" source="Psily's book to complete the rest" id="ID_ILY_RACIAL_TRAIT_CATLIKE_TREAD">
+		<description>
+			<p>You are proficient in the Stealth skill.</p>
+		</description>
+		<sheet display="false">
+			<description>You are proficient in the Stealth skill.</description>
+		</sheet>
+		<rules>
+			<grant type="Proficiency" id="ID_PROFICIENCY_SKILL_STEALTH" />
+		</rules>
+	</element>
+	<element name="Powerful Build" type="Racial Trait" source="Psily's book to complete the rest" id="ID_ILY_RACIAL_TRAIT_POWERFULBUILD">
+		<description>
+			<p>You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.</p>
+		</description>
+		<sheet>
+			<description>You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.</description>
+		</sheet>
+	</element>
+
+	<element name="Mystic-Breed Catfolk" type="Sub Race" source="Psily's book to complete the rest" id="ID_SUB_RACE_MYSTIC_BREED_CATFOLK">
+		<supports>Catfolk</supports>
+		<description>
+			<p>Mysterious, usually black-haired catfolk with an affinity for the arcane.</p>
+			<p class="indent"><strong><em>Ability Score Increase.</em></strong> Your Intelligence score increases by 2.</p>
+			<p class="indent"><strong><em>Cat's Mysticism.</em></strong> You know one cantrip of your choice from the wizard spell list, and can cast it at will. Intelligence is your spellcasting ability for this cantrip.</p>
+			<p class="indent"><strong><em>Student of Magic.</em></strong> You are proficient in the Arcana skill.</p>
+			<p class="indent"><strong><em>Extra Language.</em></strong> You can speak, read, and write one language of your choice.</p>
+		</description>
+		<setters>
+			<set name="height" modifier="2d10">4'5"</set>
+			<set name="weight" modifier="2d4">90 lb.</set>
+		</setters>
+		<rules>
+			<stat name="intelligence" value="2" />
+			<grant type="Racial Trait" id="ID_ILY_RACIAL_TRAIT_CATS_MYSTICISM"/>
+			<grant type="Racial Trait" id="ID_ILY_RACIAL_TRAIT_STUDENT_OF_MAGIC"/>
+			<grant type="Racial Trait" id="ID_ILY_RACIAL_TRAIT_EXTRA_LANGUAGE"/>
+		</rules>
+	</element>
+
+	<element name="Cat's Mysticism" type="Racial Trait" source="Psily's book to complete the rest" id="ID_ILY_RACIAL_TRAIT_CATS_MYSTICISM">
+		<description>
+			<p>You know one cantrip of your choice from the wizard spell list, and can cast it at will. Intelligence is your spellcasting ability for this cantrip.</p>
+		</description>
+		<sheet display="false">
+			<description>You know one cantrip of your choice from the wizard spell list, and can cast it at will. Intelligence is your spellcasting ability for this cantrip.</description>
+		</sheet>
+		<rules>
+			<select type="Spell" name="Wizard Cantrip (Mystic Breed Catfolk)" supports="Wizard&amp;&amp;0" />
+		</rules>
+	</element>
+	<element name="Student of Magic" type="Racial Trait" source="Psily's book to complete the rest" id="ID_ILY_RACIAL_TRAIT_STUDENT_OF_MAGIC">
+		<description>
+			<p>You are proficient in the Arcana skill.</p>
+		</description>
+		<sheet display="false">
+			<description>You are proficient in the Arcana skill.</description>
+		</sheet>
+		<rules>
+			<grant type="Proficiency" id="ID_PROFICIENCY_SKILL_ARCANA" />
+		</rules>
+	</element>
+	<element name="Extra language" type="Racial Trait" source="Psily's book to complete the rest" id="ID_ILY_RACIAL_TRAIT_EXTRA_LANGUAGE">
+		<description>
+			<p>You can speak, read, and write one language of your choice.</p>
+		</description>
+		<sheet dislpay="false">
+			<description>You can speak, read, and write one language of your choice.</description>
+		</sheet>
+		<rules>
+			<select type="Language" name="Language (Catfolk)" supports="Standard||Exotic" />
+		</rules>
+	</element>
+</elements>
