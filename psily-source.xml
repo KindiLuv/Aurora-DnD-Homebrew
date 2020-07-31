@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.1">
-			<file name="sources.xml" url="" />
+			<file name="sources.xml" url="https://raw.githubusercontent.com/PaydiLuv/Aurora-DnD-Homebrew/master/psily-source.xml" />
 		</update>
 	</info>
 	<element name="Monster Manual" type="Source" source="Core" id="ID_ILY_BOOK">
